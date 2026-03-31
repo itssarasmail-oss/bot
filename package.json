@@ -1,0 +1,13 @@
+{
+  "name": "full-mark-bot",
+  "version": "1.0.0",
+  "description": "Full Mark Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "firebase-admin": "^11.10.1"
+  }
+}
